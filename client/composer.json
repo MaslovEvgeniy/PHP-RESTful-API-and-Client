@@ -1,0 +1,12 @@
+{
+    "name": "maslov/login-form",
+    "description": "test form",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^3.3",
+        "respect/validation": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {"app\\": ""}
+    }
+}
