@@ -1,5 +1,4 @@
 .idea/
-nbproject/private/
-vendor/
+nbproject/
 vendor/
 composer.lock
